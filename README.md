@@ -4,7 +4,7 @@ A full-stack expense tracking and budgeting web application built using the MERN
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 **Frontend**
 - React
@@ -19,18 +19,18 @@ A full-stack expense tracking and budgeting web application built using the MERN
 
 ---
 
-## ✨ Features
+## Features
 
 - Add, update, and delete expense entries (full CRUD functionality)
 - Category-based expense tracking
 - Real-time updates using RESTful APIs
 - Persistent storage with MongoDB Atlas
-- Interactive pie chart visualization of category-wise spending
+- Pie chart visualization of category-wise spending
 - Responsive React-based UI
 
 ---
 
-## 🧠 Architecture Overview
+## Architecture Overview
 
 - The backend exposes REST APIs for managing expense data.
 - The frontend communicates with the backend using HTTP requests.
@@ -39,7 +39,7 @@ A full-stack expense tracking and budgeting web application built using the MERN
 
 ---
 
-## 📦 Project Structure
+## Project Structure
 
 ```
 expense-tracker/
@@ -50,9 +50,9 @@ expense-tracker/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
-### 1️⃣ Clone the repository
+### 1.Clone the repository
 
 ```
 git clone <your-repo-link>
@@ -61,7 +61,7 @@ cd expense-tracker
 
 ---
 
-### 2️⃣ Backend Setup
+### 2️. Backend Setup
 
 ```
 cd server
@@ -83,7 +83,7 @@ node index.js
 
 ---
 
-### 3️⃣ Frontend Setup
+### 3️. Frontend Setup
 
 In a new terminal:
 
@@ -107,18 +107,13 @@ http://localhost:5000
 
 ---
 
-## 📊 Visualization
+## Visualization
 
 The application includes a dynamic pie chart that visualizes category-wise spending, helping users understand financial patterns at a glance.
 
 ---
 
-## 🔐 Note
+## Note
 
 MongoDB credentials are managed through environment variables and are not included in this repository.
-
----
-
-## 📅 Timeline
-
 Developed: June 2025
